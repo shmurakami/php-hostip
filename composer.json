@@ -1,19 +1,19 @@
 {
-    "name": "takaaki-mizuno/hostip",
+    "name": "shmurakami/hostip",
     "description": "php interface to hostip.info",
     "keywords": ["api", "hostip"],
     "type": "library",
     "license": "MIT",
-    "homepage": "https://github.com/takaaki-mizuno/php-hostip",
+    "homepage": "https://github.com/shmurakami/php-hostip",
     "authors": [
       {
-        "name": "Takaaki Mizuno",
-        "email": "takaaki.mizuno@gmail.com"
+        "name": "Shunsuke Murakami",
+        "email": "shmurakami1104@gmail.com"
       }
     ],
 	"require": {
 		"php": ">=5.3.0",
-        "mashape/unirest-php" : "dev-master"
+        "mashape/unirest-php" : "1.*"
 	},
     "require-dev": {
         "phpunit/phpunit": ">=3.7.0"
