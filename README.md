@@ -8,4 +8,4 @@ This library is available under the MIT license. See the LICENSE file for more i
 
 ### Source
 
-This Repository is falked by ( https://github.com/shmurakami/php-hostip )
+This Repository is falked by ( https://github.com/takaaki-mizuno/php-hostip )
