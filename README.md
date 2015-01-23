@@ -1,4 +1,4 @@
-# TakaakiMizuno/Hostip
+# shmurakami/Hostip
 
 PHP interface for HostIP API ( http://www.hostip.info/ )
 
@@ -8,4 +8,4 @@ This library is available under the MIT license. See the LICENSE file for more i
 
 ### Source
 
-This Repository is falked by ( https://github.com/takaaki-mizuno/php-hostip )
+This Repository is forked from ( https://github.com/takaaki-mizuno/php-hostip )
